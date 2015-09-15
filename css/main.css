@@ -5,14 +5,14 @@
 @viewport { width: device-width; scale: 1; }
 
 html {
-  background-color: #e8e5da;
+  background-color: #DEDEE1;
   box-sizing: border-box;
 
   -moz-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
-  color: #000;
+  color: #89898B;
 }
 
 *, *::before, *::after {
