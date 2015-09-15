@@ -1,5 +1,5 @@
 html {
-  font-family: 'futura', serif;
+  font-family: 'Droid Serif', serif;
 }
 
 @media only screen and (min-width: 60em) {
@@ -220,5 +220,5 @@ sub {
 
 h1, h2, h3, h4, h5, h6,
 .font-brand {
-  font-family: 'futura', sans-serif;
+  font-family: 'Droid Serif', sans-serif;
 }
