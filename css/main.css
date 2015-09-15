@@ -73,10 +73,6 @@ a {
 
 }
 
-.a:visited {
-
-  color: yellow;
-}
 
 a:hover {
   color: #fff;
