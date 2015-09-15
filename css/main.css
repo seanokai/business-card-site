@@ -24,11 +24,6 @@ html {
   width: 100%;
 }
 
-.masthead {
-  background: transparent url("../img/masthead-bg.png") repeat left center;
-  text-align: center;
-}
-
 
 .icon {
   vertical-align: center;
@@ -67,6 +62,16 @@ ul {
   margin: 0 auto;
 }
 
-.hover:hover{
+
+a {
+ color: green;
+ text-decoration: none;
+
+}
+
+.hover:hover {
   color: #fff;
 }
+
+
+
