@@ -29,28 +29,6 @@ html {
   text-align: center;
 }
 
-.title {
-  display: inline-block;
-  padding: 0 72px;
-
-  background:
-    url("../img/star.svg") no-repeat 12px center / 32px auto,
-    url("../img/star.svg") no-repeat calc(100% - 12px) center / 32px auto #e8e5da
-  ;
-
-  text-shadow: 3px 3px 0 #c0bfbf;
-}
-
-.logo {
-  margin: 0 0.2em 0 0;
-  width: 1.2em;
-  vertical-align: middle;
-}
-
-.panel {
-    border-image: url("../img/panel-border.png") 20 20 20 20 stretch stretch;
-    border-width: 20px 20px 20px 20px;
-}
 
 .icon {
   vertical-align: center;
@@ -69,4 +47,15 @@ html {
 
 ul {
   padding-left: 1em;
+}
+
+.icon-link {
+
+  display: inline-block;
+
+}
+
+.icon {
+
+  width: 60%;
 }
