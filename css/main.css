@@ -60,3 +60,13 @@ ul {
 
   width: 60%;
 }
+
+.unit {
+
+  width: 400px;
+  margin: 0 auto;
+}
+
+.hover:hover{
+  color: #fff;
+}
